@@ -1,0 +1,17 @@
+.odd {
+   background-color: indianred;
+   font-family: 'veranda' 'DejaVu Sans' 'sans-serif';
+}
+
+.third {
+ font-size: 24px;
+}
+
+#sec {
+   font-size: 32px;
+   color: #2020d4;
+}
+#fourth {
+   background-color: rgb(116, 228, 116);
+   font-weight: bold;
+}
